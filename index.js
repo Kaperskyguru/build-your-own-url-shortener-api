@@ -5,8 +5,6 @@ const app = express();
 app.get("/", (req, res) => res.send("Hello From Your API"));
 
 
-this
-
 /**
 * Editing this line below will cause your code to break and not build successfully. Except you know what you're doing.
 */
